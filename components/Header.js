@@ -39,6 +39,9 @@ function Header() {
           <Link href="/test">
             <a className={tw`text-xl font-light text-gray-700`}>Test Page</a>
           </Link>
+          <Link href="/kakteen">
+            <a className={tw`text-xl font-light text-gray-700`}>kakteen</a>
+          </Link>
         </div>
       </div>
     </header>
